@@ -1,0 +1,19 @@
+{
+  "name": "overtop_client",
+  "version": "0.0.0",
+  "description": "A client side nodejs app for Overtop TCP Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncgreco1440/OvertopClient.git"
+  },
+  "author": "Nico Greco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ncgreco1440/OvertopClient/issues"
+  },
+  "homepage": "https://github.com/ncgreco1440/OvertopClient#readme"
+}
